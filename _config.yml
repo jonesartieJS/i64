@@ -1,0 +1,8 @@
+title: I64
+description: i64 is a powerful non-JailBreak N64 emulator for iOS.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
